@@ -51,6 +51,12 @@
 </div>
 
 ###
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=greejjddg09&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=greejjddg09&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 ### 📫 Contact Me:  
 [![X](https://img.shields.io/badge/X-@arturpodchayev-000000?style=flat&logo=x&logoColor=white)](https://x.com/greejjddg09)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mirzotilloev) 
@@ -64,8 +70,3 @@ If you like my projects and want to support me:
 - ⭐️ Star my repositories that you find interesting.  
 - 💬 Share my projects on social media.  
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=greejjddg09&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=greejjddg09&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
