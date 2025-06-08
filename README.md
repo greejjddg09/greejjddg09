@@ -59,7 +59,7 @@
 </div>
 
 ### 📫 Contact Me:  
-[![X](https://img.shields.io/badge/X-@arturpodchayev-000000?style=flat&logo=x&logoColor=white)](https://x.com/greejjddg09)
+[![X](https://img.shields.io/badge/X-@greejjddg09-000000?style=flat&logo=x&logoColor=white)](https://x.com/greejjddg09)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mirzotilloev) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/greejjddg09/)
 
